@@ -1,0 +1,103 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.radio {
+display: inline-block;
+}
+
+.profile-pic {
+	border-radius: 50%;
+	width: 20em;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.main-form {
+	width: 65%;
+	max-width: 54em;
+	
+}
+
+
+
+.favButtons {
+	background-color: yellow;
+	padding: 15px 32px;
+	border-radius: 1em;
+}
+
+.name-and-email {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: .5em;
+	
+}
+
+input, textarea {
+	background-color: #f7f7f7;
+	border: solid 2px transparent;
+	border-radius: 0.35em;
+	outline: 0;
+}
+
+input {
+	height: 1.75em;
+	width: 48%;
+}
+
+textarea {
+	width: 100%;
+	margin-bottom: 1.25em;
+}
+
+.submit-button {
+	cursor: pointer;
+	background-color: white;
+	color: #787878;
+	border-radius: 0.35em;
+	border: solid #787878;
+	box-shadow: none;
+	height: 3.15em;
+	min-width: 10em;
+	font-size: 16pt;
+	width: 100%;
+	
+}

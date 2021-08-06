@@ -1,0 +1,11 @@
+How does the internet work? What happens when you click on a link?
+
+The internet is how multiple computers work together and communicate to transfer
+and share data. They have files or packets on their server and when requested 
+will transfer those files to other computers. Those will then be displayed in the 
+form of webpages or other applications.
+
+When you click on a link it has an IP address that sends the request to the server. 
+Then the server pulls the data and then sends it in small packets back to the client
+and comes out as a webpage. Any of these requests will go through a router to help 
+the requests get to the right location. 
